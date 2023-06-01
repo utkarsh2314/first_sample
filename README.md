@@ -1,2 +1,3 @@
 # first_sample
-Thats my first sample project which gives a model over a image target
+Thats my first sample project which gives a model over a image target of a car
+
